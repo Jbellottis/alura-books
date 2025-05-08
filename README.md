@@ -1,6 +1,6 @@
 # Olá, Bem vindo ao meu projeto de Compra de Ingressos.
 
-![image](https://github.com/Jbellottis/alura-combo/blob/main/img/print-tela.png)
+![image](https://github.com/Jbellottis/alura-books/blob/main/imgs/print.png)
 
 ## Hospedagem do projeto no [Vercel](https://alura-combo-psi.vercel.app/).
 
