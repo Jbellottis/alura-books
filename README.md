@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Jbellottis/alura-books/blob/main/imgs/print.png)
 
-## Hospedagem do projeto no [Vercel](https://alura-combo-psi.vercel.app/).
+## Hospedagem do projeto no [https://alura-books-wine-rho.vercel.app/).
 
 ## Ferramentas utilizadas:
 
